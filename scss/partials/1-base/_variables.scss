@@ -1,0 +1,28 @@
+/*******COLORS********/
+
+/***primary***/
+$primary-blue: hsl(223, 87%, 63%);
+
+/***secondary***/
+$secondary-pale-blue: hsl(223, 100%, 88%);
+$secondary-light-Red: hsl(354, 100%, 66%);
+
+/***neutral***/
+$neutral-grey: hsl(0, 0%, 59%);
+$very-dark-blue: hsl(209, 33%, 12%);
+
+/******FONTS******/
+$ff-libre-franklin: "Libre Franklin", sans-serif;
+
+/*font-size*/
+$fs: 20px;
+
+/*font-weight*/
+$fw-light: 300;
+$fw-medium: 600;
+$fw-heavy: 700;
+
+/*Media queries*/
+$tablet: 768px;
+$large: 1024px;
+$desktop: 1280px;

@@ -1,0 +1,10 @@
+@import "partials/1-base/resets.scss";
+@import "partials/1-base/variables.scss";
+@import "partials/1-base/global.scss";
+
+@import "partials/2-abstracts/mixins.scss";
+@import "partials/2-abstracts/functions.scss";
+
+@import "partials/3-layout/layout.scss";
+
+@import "partials/4-components/all.scss";
